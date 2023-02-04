@@ -720,6 +720,12 @@ footer {
         -ms-transition: .5s ease;
         -o-transition: .5s ease;
     }
+    .publish_cocacola p, h3{
+      user-select: none;
+    }
+    .publish_pepsi p, h3{
+      user-select: none;
+    }
     
     
 }
